@@ -2,7 +2,7 @@
 
 A native music player application built with Expo, React Native, Typescript and Zustand. Design is inspired by Apple Music app
 
-You can follow along the entire development of this project [here](https://youtu.be/9CElrkFwiBU?si=PFgwCFDulxJJD2f4)
+You can follow along the entire development of this project <a href="https://youtu.be/9CElrkFwiBU?si=PFgwCFDulxJJD2f4" target="_blank">here</a>
 
 <img src="https://github.com/TathataHY/music-player/assets/86846618/57ffd0f1-f0ac-4121-9008-1c331fb23e17" width="200">
 <img src="https://github.com/TathataHY/music-player/assets/86846618/2e13ad15-9811-43bf-9915-692f48bac3a0" width="200">
